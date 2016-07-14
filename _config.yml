@@ -1,0 +1,14 @@
+layout_spectrum: 0.14083286887034774
+typography_spectrum: 0.051739204209297895
+color:
+  brandStrength: 0.6818722153548151
+  lightness: 0.12143922201357782
+  saturation: 0.560467945644632
+  rhythmicContrast: 0.042866348288953304
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Helpmereboot
